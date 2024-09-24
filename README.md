@@ -9,34 +9,63 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" alt="dot-net logo"  />
+  <a href="https://dotnet.microsoft.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" alt="dot-net logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo"  />
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <a href="https://visualstudio.microsoft.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" alt="git logo"  />
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" alt="git logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="30" alt="bootstrap logo"  />
+  <a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="30" alt="bootstrap logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" height="30" alt="debian logo"  />
+  <a href="https://www.debian.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" height="30" alt="debian logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
+  <a href="https://www.putty.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
+  <a href="https://www.apple.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo" />
+  </a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" />
+  </a>
 </div>
+
 
 <h3 align="left">Connect With Me:</h3>
 <div align="center">
